@@ -1,0 +1,13 @@
+body parameter:
+  upper_mass: 11.01
+  lower_mass: 3.0
+  g: 9.81
+  length: [0.15, 0.245, 0.39, 0.39, 0.245]
+
+ida controller parameter:
+  nlr_k: 0.015  
+  nlr_m220: 0.04
+  nlr_kv: 0.05
+  nlr_P: 0.2
+  str: sjdhdjfskjj
+  inta: 1

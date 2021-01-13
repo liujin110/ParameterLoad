@@ -1,0 +1,3 @@
+/home/nuc/ParameterLoad/build/CMakeFiles/rebuild_cache.dir
+/home/nuc/ParameterLoad/build/CMakeFiles/parameter_config.dir
+/home/nuc/ParameterLoad/build/CMakeFiles/edit_cache.dir
